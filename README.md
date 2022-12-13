@@ -2,16 +2,17 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This project was on behalf of our own codebase, wanting to make it more accessible and reader friendly. The elements of this codebase have been updated to  meet with global standards. 
+((((Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:)))
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+- The motivation? A semantic element clearly describes its meaning to both the browser and the developer so its win win!!
+- We built this project to help with accessibility google ranking and to help with seo
+- The problem that it solves is clearly just that an article should make sense on its own,
+- Semantics doesnt need to be hard actually it can be fun?
 
-## Table of Contents (Optional)
+## Table of Contents 
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
+
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -34,7 +35,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+My cat collaborated with me on this project all across the keyboard multiple times. Thanks lilly !!
 
 If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 
